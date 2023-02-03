@@ -3,12 +3,8 @@
 Beatiful grid whit photos and effects!
 
 
-[![grilla.png](https://i.postimg.cc/7Zs2ZH5K/grilla.png)](https://postimg.cc/Sn9sZp79)
 
 
+![grilla](https://user-images.githubusercontent.com/107262182/216662437-d4ff9274-2a63-4a32-8a18-e7a50e87a9b7.png)
 
-
-
-
-[![grilla-2.png](https://i.postimg.cc/3xRk6stm/grilla-2.png)](https://postimg.cc/F7MFkB5H)
-
+![grilla 2](https://user-images.githubusercontent.com/107262182/216662861-41e84a91-af27-41b4-b849-4badcdcd78a8.png)
